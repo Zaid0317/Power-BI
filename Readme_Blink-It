@@ -1,0 +1,40 @@
+## 📊 Blinkit Sales & Inventory Performance Dashboard
+
+## Objective:
+To analyze overall business performance, customer preferences, sales distribution, and inventory management insights for Blinkit (India’s Last Minute App).
+
+- Connected AWS cloud with snowflake, than imported data, created S3 bucket, Roles, than Integration Objective
+
+- Understand the data and made a copy of the data for data Transformation and cleaning purpose
+
+- imported data into Power-BI
+
+# Key Insights
+
+- 💰 Total Sales: ₹32.19M with Avg Margin Profit: 27.78%
+
+- 👥 Total Customers: 5K generating ₹11.01M Revenue
+
+- 📦 Top Performing Categories: Dairy & Breakfast, Household Care, Pet Care, Fruits & Vegetables
+
+- 💹 Customer Segments: Active users drive 8.14M in sales while inactive and premium users show lower engagement
+
+- 📈 Monthly Sales Trend: Highest in May (₹3.43M), steady performance in Q2 and Q3, indicating seasonal influence
+
+- 🧾 Damaged Stock Analysis: Dairy & Breakfast and Household items account for the highest losses (~8.9K each)
+
+- 🧍‍♂️ Customer Feedback: Majority of users rated 4⭐ and 5⭐ indicating high satisfaction levels
+
+- 🏪 Inventory Metrics: Pet Treats and Dish Soap maintain strong stock levels; Baby Wipes and Bread show minimal buffer
+
+- 📊 Stock Received & Shelf Life: Pet Treats received max stock (8.5K units); products like Cat Food and Baby Wipes have shorter shelf lives
+
+# Dashboard Features:
+
+- Interactive filters for margin %, channel, and campaign
+
+- Segmented tabs for Sentiment, Customer Segment, Rating, Payment Method
+
+- Visuals used: Cards, Bar charts, Donut chart, Line chart, Tree map, and Tables
+
+- KPIs for sales, customers, revenue, margin, stock, and rating trends
